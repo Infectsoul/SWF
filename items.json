@@ -2013,6 +2013,11 @@
       "name": "Starry Wolf",
       "cheese": 6500,
       "fraise": 450
+    },
+    "403": {
+      "name": "Spider Monster",
+      "cheese": 6500,
+      "fraise": 450
     }
   },
   "Color": {
@@ -3727,7 +3732,6 @@
         "Mop",
         "Wigmaker",
         "Hairdresser",
-        "Fashion",
         "Retro",
         "Vintage",
         "Ridiculousness",
@@ -4305,7 +4309,6 @@
         "Jamaican",
         "Hippie",
         "Alternative",
-        "Fashion",
         "Style",
         "Casual",
         "Retro",
@@ -5300,7 +5303,6 @@
         "Goofy",
         "Silly",
         "Funny",
-        "Kawaii",
         "Cartoon",
         "Fantasy",
         "Novelty",
@@ -5415,8 +5417,6 @@
         "Simple",
         "Basic",
         "Cute",
-        "Fashion",
-        "Fashionable",
         "Feminine",
         "Valentine",
         "Romantic",
@@ -5753,7 +5753,6 @@
         "Woman",
         "Girl",
         "Beauty",
-        "Fashion",
         "Grooming",
         "Salon",
         "Barber",
@@ -5775,8 +5774,7 @@
         "Character",
         "Cosplay",
         "Fantasy",
-        "Avatar",
-        "Stylish"
+        "Avatar"
       ]
     },
     "66": {
@@ -6078,10 +6076,8 @@
         "Cartoon",
         "Animated",
         "Princess",
-        "Fashion",
         "Elegance",
         "Glamorous",
-        "Stylish",
         "Beauty",
         "Gemstone",
         "Jewel",
@@ -7690,7 +7686,6 @@
         "Fluffy",
         "Down",
         "Adorable",
-        "Kawaii",
         "Playful",
         "Cheerful",
         "Spring",
@@ -7875,7 +7870,6 @@
         "Costume",
         "Cosplay",
         "Wearable",
-        "Fashion",
         "Headpiece",
         "Accessory",
         "Boxer",
@@ -8290,7 +8284,6 @@
         "Bulbous",
         "Glossy",
         "Shiny",
-        "Cute",
         "Fishing",
         "Squid",
         "Oceanic",
@@ -9784,7 +9777,6 @@
         "Goofy",
         "Silly",
         "Funny",
-        "Kawaii",
         "Cartoon",
         "Fantasy",
         "Novelty",
@@ -12067,7 +12059,6 @@
         "Bobble",
         "Novelty",
         "Playful",
-        "Kawaii",
         "Whimsical",
         "Nature",
         "Wildlife",
@@ -12333,7 +12324,6 @@
         "Bug",
         "Springtime",
         "Summertime",
-        "Kawaii",
         "Whimsical",
         "Playful",
         "Stinger",
@@ -14085,7 +14075,6 @@
         "Novelty",
         "Unconventional",
         "Funny",
-        "Fashion",
         "Practical",
         "Flexible",
         "Durable",
@@ -16574,7 +16563,6 @@
         "Accessory",
         "Costume",
         "Cosplay",
-        "Kawaii",
         "Whimsical",
         "Playful",
         "Springtime",
@@ -19434,6 +19422,11 @@
         "Fall",
         "Autumn"
       ]
+    },
+    "345": {
+      "name": "Chainsaw",
+      "cheese": 650,
+      "fraise": 65
     }
   },
   "Ears": {
@@ -23856,6 +23849,11 @@
       "name": "Goth Umbrella",
       "cheese": 800,
       "fraise": 80
+    },
+    "136": {
+      "name": "Spooky Spiked Collar",
+      "cheese": 550,
+      "fraise": 55
     }
   },
   "Tail": {
@@ -24840,6 +24838,11 @@
         "Hair-Tie"
       ]
     },
+    "12": {
+      "name": "Stylish Quiffn",
+      "cheese": 200,
+      "fraise": 40
+    },
     "13": {
       "name": "Curly Hair",
       "cheese": 400,
@@ -24920,6 +24923,11 @@
         "Boy",
         "Side-Swept"
       ]
+    },
+    "15": {
+      "name": "Doll Hair",
+      "cheese": 250,
+      "fraise": 40
     },
     "16": {
       "name": "Levi's Hair",
@@ -25047,6 +25055,11 @@
     "24": {
       "name": "Judge Wig",
       "cheese": 300,
+      "fraise": 40
+    },
+    "25": {
+      "name": "Elegant Curls",
+      "cheese": 250,
       "fraise": 40
     },
     "26": {
@@ -25259,6 +25272,11 @@
       "cheese": 300,
       "fraise": 40
     },
+    "68": {
+      "name": "Cute Short Hair",
+      "cheese": 300,
+      "fraise": 40
+    },
     "69": {
       "name": "Isabelle's Hair",
       "cheese": 400,
@@ -25326,6 +25344,16 @@
     },
     "82": {
       "name": "Fire",
+      "cheese": 400,
+      "fraise": 60
+    },
+    "83": {
+      "name": "Anime Hair",
+      "cheese": 400,
+      "fraise": 60
+    },
+    "84": {
+      "name": "Stylish Hair",
       "cheese": 400,
       "fraise": 60
     },
@@ -25793,6 +25821,11 @@
       "name": "Medium-length",
       "cheese": 400,
       "fraise": 40
+    },
+    "178": {
+      "name": "Spider Hair",
+      "cheese": 650,
+      "fraise": 65
     }
   },
   "Contact_lenses": {
